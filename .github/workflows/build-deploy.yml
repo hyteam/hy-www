@@ -38,3 +38,4 @@ jobs:
           destination-github-username: "shouzia"
           destination-repository-name: "shouzia.github.io"
           user-email: saopipizhu@163.com
+          target-branch: "shouzi"
