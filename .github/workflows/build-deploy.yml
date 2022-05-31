@@ -36,6 +36,6 @@ jobs:
         with:
           source-directory: "dist"
           destination-github-username: "shouzia"
-          destination-repository-name: "shouzia.github.io"
+          destination-repository-name: "hy-www"
           user-email: saopipizhu@163.com
-          target-branch: "shouzi"
+          target-branch: "gh-page"
