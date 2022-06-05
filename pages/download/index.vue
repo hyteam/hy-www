@@ -80,7 +80,7 @@ export default {
           imgsrc: Pinlogo,
         },
         {
-          href: 'https://log.shouzi.xyz/index.php/2021/08/18/cdlinuxcrackwifi/',
+          href: 'https://blog.shouzi.xyz/cdlinux-wifi/',
           title: 'CDLinux使用方法',
           imgsrc: Shouzi,
         },
