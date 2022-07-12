@@ -71,7 +71,7 @@ export default {
         },
         {
           href: 'https://xz.108878.xyz/%E5%B9%BB%E5%BD%B1pin-magisk%E9%A9%B1%E5%8A%A8%E6%8C%82%E8%BD%BD%E6%A8%A1%E5%9D%97v2.5.zip',
-          title: '幻影Magik驱动',
+          title: '幻影Magisk驱动',
           imgsrc: Pinlogo,
         },
         {
