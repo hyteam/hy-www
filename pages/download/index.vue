@@ -80,9 +80,19 @@ export default {
           imgsrc: Pinlogo,
         },
         {
+          href: 'https://log.shouzi.xyz/index.php/2021/08/18/cdlinuxcrackwifi/',
+          title: 'CDLinux使用方法',
+          imgsrc: Shouzi,
+        },
+        {
           href: 'https://xz.108878.xyz/CDlinux.zip',
           title: 'CDLinux',
           imgsrc: CDlinux,
+        },
+        {
+          href: 'https://www.kali.org/downloads/',
+          title: 'Kali Linux',
+          imgsrc: kail,
         },
       ],
     }
