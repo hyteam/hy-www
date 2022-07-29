@@ -85,7 +85,7 @@ export default {
           imgsrc: Shouzi,
         },
         {
-          href: 'https://xz.shouzi.xyz/cdlinux/cdlinux.iso',
+          href: 'https://github.com/shouzia/xz_shouzi_xyz/raw/master/cdlinux/cdlinux.iso',
           title: 'CDLinux',
           imgsrc: CDlinux,
         },
