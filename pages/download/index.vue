@@ -45,37 +45,37 @@ export default {
     return {
       dlApp: [
         {
-          href: 'https://xz.108878.xyz/%E5%B9%BB%E5%BD%B1pin1.75.apk',
+          href: 'https://xz.shouzi.xyz/%E5%B9%BB%E5%BD%B1Pin/%E5%B9%BB%E5%BD%B1pin1.75.apk',
           title: '幻影Pin-v1.75',
           imgsrc: Pinlogo,
         },
         {
-          href: 'https://xz.108878.xyz/%E5%B9%BB%E5%BD%B1PinLNbeta4.apk',
+          href: 'https://xz.shouzi.xyz/%E5%B9%BB%E5%BD%B1Pin/%E5%B9%BB%E5%BD%B1PinLNbeta4.apk',
           title: '幻影Pin-v4.0',
           imgsrc: Pinlogo,
         },
         {
-          href: 'https://xz.108878.xyz/hypin_fix2.apk',
+          href: 'https://xz.shouzi.xyz/%E5%B9%BB%E5%BD%B1Pin/A%E5%B9%BB%E5%BD%B1Pin_fix2(%E6%94%AF%E6%8C%81%E5%AE%89%E5%8D%938.0%E5%92%8C9.0).apk',
           title: '幻影Pin-v4.2',
           imgsrc: Pinlogo,
         },
         {
-          href: 'https://xz.108878.xyz/%E5%B9%BB%E5%BD%B1WIFI_2.9995(%E6%94%AF%E6%8C%81%E5%AE%89%E5%8D%934-7.1).apk',
+          href: 'https://xz.shouzi.xyz/%E5%B9%BB%E5%BD%B1wifi/%E5%B9%BB%E5%BD%B1WIFI_2.9995(%E6%94%AF%E6%8C%81%E5%AE%89%E5%8D%934-7.1).apk',
           title: '幻影Wifi-v2.995',
           imgsrc: hywifi,
         },
         {
-          href: 'https://xz.108878.xyz/%E5%B9%BB%E5%BD%B1Wifi(%E9%80%82%E9%85%8D%E5%AE%89%E5%8D%938.0%E4%BB%A5%E4%B8%8A).apk',
+          href: 'https://xz.shouzi.xyz/%E5%B9%BB%E5%BD%B1wifi/%E5%B9%BB%E5%BD%B1Wifi%E9%80%82%E9%85%8D8.0%E4%BB%A5%E4%B8%8A.apk',
           title: '幻影Wifi(安卓8.0以上)',
           imgsrc: hywifi,
         },
         {
-          href: 'https://xz.108878.xyz/%E5%B9%BB%E5%BD%B1pin-magisk%E9%A9%B1%E5%8A%A8%E6%8C%82%E8%BD%BD%E6%A8%A1%E5%9D%97v2.5.zip',
+          href: 'https://xz.shouzi.xyz/%E5%B9%BB%E5%BD%B1Pin/%E5%B9%BB%E5%BD%B1Pin%20%E9%A9%B1%E5%8A%A8/%E5%B9%BB%E5%BD%B1pin-magisk%E9%A9%B1%E5%8A%A8%E6%8C%82%E8%BD%BD%E6%A8%A1%E5%9D%97v2.5%20(1).zip',
           title: '幻影Magisk驱动',
           imgsrc: Pinlogo,
         },
         {
-          href: 'https://h5ai.shouzi.xyz',
+          href: 'https://xz.shouzi.xyz',
           title: '驱动及其他文件',
           imgsrc: Pinlogo,
         },
@@ -85,7 +85,7 @@ export default {
           imgsrc: Shouzi,
         },
         {
-          href: 'https://xz.108878.xyz/CDlinux.zip',
+          href: 'https://github.com/shouzia/xz_shouzi_xyz/raw/master/cdlinux/cdlinux.iso',
           title: 'CDLinux',
           imgsrc: CDlinux,
         },
